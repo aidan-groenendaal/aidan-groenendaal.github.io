@@ -4,9 +4,9 @@ title: "PSETI Research"
 author_profile: true
 ---
 
-Over the summer, I had the oppurtunity to join Northwestern's Laboratory for Atomic and Photonic Technology (LAPT). For almost 20 years, work has been ongoing into creating extremely sensitivie ring laser gyrocopes (RLGs). Instruments that can be used in meterology, navigation, astrophysics, and many other fields. My research focused on how to optimize the output of such a laser. 
+During my time at Penn State, I have been a member of the Penn State Extraterrestrial Intelligence Center where I conduct research under the mentorship of Dr. Jason Wright. My research involves studying the potential of the lunar limb to act as a radio interference rejector. I also mantain SETI.news and release a monthly newsletter to SETI astronomers. 
 
-## Superluminal RLG
+## Lunar Occultations as an RFI Rejector
 
 Our RLG differs from others as we make use of an active cavity. We place a vapor cell containing the two stabes isotopes of rubidium into the RLGs cavity and rapidly excite and de-excite the atoms. This creates a dispersive medium, one where the index of refraction changes rapidly with frequency. Due to the way we tune the rubidium atoms, our system experiences negative dispersion, meaning the group velocity of the laser can exceed the vacuum speed of light without violating relativity. This creates a condition where the resonance frequency shift for a given cavity perturbation can be much larger than an empty cavity RLG, theoretically reaching upwards of 2000 times more sensitive. 
 

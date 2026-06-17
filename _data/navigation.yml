@@ -10,11 +10,11 @@
 main:
   - title: "Northwestern REU 2025"
     url: /research/
-
-  - title: "Contact"
-    url: /contact/    
-
+    
   - title: "PSETI Research"
     url: /research_SETI/
+    
+  - title: "Contact"
+    url: /contact/    
 
 

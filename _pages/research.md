@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Raman Laser with Enhanced Cavity Sensitivity"
+title: "Northwestern REU 2025"
 author_profile: true
 ---
 

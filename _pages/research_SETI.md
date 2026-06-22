@@ -8,7 +8,12 @@ During my time at Penn State, I have been a member of the Penn State Extraterres
 
 ## Lunar Occultations as an RFI Rejector
 
-Our RLG differs from others as we make use of an active cavity. We place a vapor cell containing the two stabes isotopes of rubidium into the RLGs cavity and rapidly excite and de-excite the atoms. This creates a dispersive medium, one where the index of refraction changes rapidly with frequency. Due to the way we tune the rubidium atoms, our system experiences negative dispersion, meaning the group velocity of the laser can exceed the vacuum speed of light without violating relativity. This creates a condition where the resonance frequency shift for a given cavity perturbation can be much larger than an empty cavity RLG, theoretically reaching upwards of 2000 times more sensitive. 
+For astronomers searching for extraterrestrial intelligence, terrestrial radio sources cause potential issues for searches within the radio frequency band. They can obscure or mimic potential technosignatures (radio signals from aliens), making confirmation difficult. 
+
+Over the past two years, I have worked on a method of RFI rejection that utilizes the diffraction effects of a signal obscured by the edge of the Moon. Radio signals that are occulted by the Moon will exhibit a characterstic diffraction pattern. This can filter terrestrial radio signals as they will not show the same diffraction. 
+
+I observed the lunar occultation of quasar J081710.54+2335224.1 at 1.3 and 8 GHz, obtained during ingress and egress of a lunar occultation event using the Allen Telescope Array’s
+beamforming mode. The cross correlation of the expected signal against the observed power is given below, failing to reveal any underlying diffraction pattern.
 
 ## Theoretical Modeling
 

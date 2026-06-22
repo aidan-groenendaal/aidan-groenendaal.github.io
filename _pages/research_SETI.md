@@ -16,7 +16,7 @@ I observed the lunar occultation of quasar J081710.54+2335224.1 at 1.3 and 8 GHz
 
 ![Cross-Correlation](/images/output_balls.png)
 
-A full overview of the project can be found in my honors thesis: [Link text]([https://example.com](https://honors.libraries.psu.edu/catalog/10319akg6157)) 
+A full overview of the project can be found in my honors thesis: [Thesis](https://honors.libraries.psu.edu/catalog/10319akg6157)
 
 ## Acknowledgments
 

@@ -18,6 +18,8 @@ I observed the lunar occultation of quasar J081710.54+2335224.1 at 1.3 and 8 GHz
 
 A full overview of the project can be found in my honors thesis: [Thesis](https://honors.libraries.psu.edu/catalog/10319akg6157)
 
+Here is the poster I presented at AAS 247: [![View my iPoster](https://img.shields.io/badge/View-iPoster-blue?style=for-the-badge)](https://aas242-aas.ipostersessions.com/?s=B6-D0-37-08-F0-F9-5E-5F-0E-B2-58-AC-C1-7F-D0-9F)
+
 ## Acknowledgments
 
 This material is based upon work supported by the National Science Foundation (NSF) under Grant Numbers AST-2149425 and AST-2446392. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the NSF.
